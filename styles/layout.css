@@ -1,0 +1,28 @@
+
+
+#e, #f, #g, #h{
+	float: left;
+}
+
+
+@media screen and (min-width: 768px){
+
+	#b{
+		float: left;
+	}
+	#cd{
+		float: left;
+	}
+	#c, #d{
+		float: left;
+	}
+	#efgh{
+		float: left;
+	}
+	#e, #f, #g, #h{
+		float: left;
+	}
+	#i{
+		float: left;
+	}
+}
